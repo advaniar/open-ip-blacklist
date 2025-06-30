@@ -1,0 +1,52 @@
+# LINK : https://www.dshield.org/block.txt
+#   DShield.org Recommended Block List 
+#    (c) $year DShield.org
+#   some rights reserved. Details http://creativecommons.org/licenses/by-nc-sa/2.5/
+#   use on your own risk. No warranties implied.
+#   primary URL: https://feeds.dshield.org/block.txt
+#     PGP Sign.: https://feeds.dshield.org/block.txt.asc
+#
+#   comments: systems@isc.sans.edu
+#    updated: 2024-12-11T03:00:34.043021
+#   
+#    This list summarizes the top 20 attacking class C (/24) subnets
+#   over the last three days. The number of 'attacks' indicates the 
+#   number of targets reporting scans from this subnet.
+#
+#
+
+1.95.248.0/24 HWCSNET Huawei Cloud Service data center CN
+111.180.204.0/24 CHINANET-BACKBONE No.31,Jin-rong Street CN
+103.41.0.0/24 CHINA169-BACKBONE CHINA UNICOM China169 Backbone CN
+111.180.202.0/24 CHINANET-BACKBONE No.31,Jin-rong Street CN
+1.95.249.0/24 HWCSNET Huawei Cloud Service data center CN
+111.173.119.0/24 CHINANET-BACKBONE No.31,Jin-rong Street CN
+111.180.196.0/24 CHINANET-BACKBONE No.31,Jin-rong Street CN
+103.91.209.0/24 CHINA169-BACKBONE CHINA UNICOM China169 Backbone CN
+111.51.81.0/24 CHINAMOBILE-CN China Mobile Communications Group Co., Ltd. CN
+83.222.191.0/24 GCN-AS GCN AD - Sofia, Bulgaria
+103.91.211.0/24 CHINA169-BACKBONE CHINA UNICOM China169 Backbone CN
+79.110.62.0/24 Emanuel Hosting Ltd ND
+206.168.34.0/24 Censys, Inc US
+198.235.24.0/24 Palo Alto Networks, Inc US Prob
+167.94.138.0/24 CENSYS-ARIN-01 US
+185.242.226.0/24 AS49870-BV NL
+205.210.31.0/24 Palo Alto Networks, Inc US
+80.75.212.0/24 Ferdinand Zink trading as Tube-Hosting GER
+193.163.125.0/24 INTERNET-MEASUREMENT GB
+112.21.190.0/24 CHINAMOBILE-CN China Mobile Communications Group Co., Ltd. CN
+# updated: 2025-01-13T23:45:20.302957\
+194.180.49.0/24 - - -
+185.224.3.0/24 - - -
+167.94.146.0/24 CENSYS-ARIN-02 US None
+103.102.230.0/24 SKOALI FR >>UNKNOWN<<
+95.214.55.0/24 MEVSPACE PL abuse@skynode.pl
+45.142.193.0/24 MAGHOST_ RO office@magbross.ro
+147.185.132.0/24 GOOGLE-CLOUD-PLATFORM US None
+64.62.197.0/24 HURRICANE US abuse@he.net
+193.41.206.0/24 - - -
+2.57.122.0/24 UNMANAGED-DEDICATED-SERVERS GB abuse@dedicated.net.ua
+154.213.184.0/24 MULTA-ASN1 US abuse@multacom.com
+167.94.145.0/24 CENSYS-ARIN-02 US None
+92.255.85.0/24 LD007-AS HK dl@hostway.ru
+
